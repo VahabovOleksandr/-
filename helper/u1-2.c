@@ -8,7 +8,7 @@ int sortCondition(const void* a, const void* b) { return (*(int*)a - *(int*)b); 
 int main()
 {
 	
-	int DD;
+	int DDwrgc;
 	
 	int n = 0, x = 0;
 
