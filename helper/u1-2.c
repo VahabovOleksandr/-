@@ -7,7 +7,8 @@ int sortCondition(const void* a, const void* b) { return (*(int*)a - *(int*)b); 
 
 int main()
 {
-	int babac;
+	
+	
 	int n = 0, x = 0;
 
 	while (scanf("%d", &n) > 0)
