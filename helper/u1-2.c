@@ -9,6 +9,7 @@ int main()
 {
 	
 	int DD;
+	hgdbc;
 	int n = 0, x = 0;
 
 	while (scanf("%d", &n) > 0)
